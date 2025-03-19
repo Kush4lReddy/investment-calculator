@@ -1,4 +1,4 @@
-### **Introduction for the Investment Calculator**  
+### **Investment Calculator**  
 This **Investment Calculator** helps users plan their financial future by offering two calculation modes:  
 1. **Target-Based Calculation** – Enter your desired future amount, and the calculator will determine how much you need to invest regularly or as a lump sum to reach that goal.  
 2. **Current-Based Calculation** – Input your current investment details, and the calculator will estimate the future value based on your contributions and interest rate.  
